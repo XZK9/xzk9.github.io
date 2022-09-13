@@ -2,8 +2,8 @@ title: nicolas.zhao
 author:
   name: XZK9
   email: thumaskman@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  nicolas's blog.
+description: >  # this means to ignore newlines until "show_excerpts:"
+  
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -14,8 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    #twitter: jekyllrb
+    github:  XZK9
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
